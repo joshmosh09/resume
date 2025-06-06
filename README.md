@@ -1,2 +1,1 @@
-# resume
-my resume profile
+Welcome to my profile page, feel free to explore!
